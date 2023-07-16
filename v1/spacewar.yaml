@@ -2,7 +2,7 @@
 # installing ubuntu touch on this is impossible, so I will be using
 # this phone to test adb commands which have to be run before using fastboot
 name: "Nothing phone(1)"
-codename: "lahaina"
+codename: "spacewar"
 formfactor: "phone"
 aliases: [""]
 doppelgangers: []
